@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fb0a886d.css",
-    "main.js": "/static/js/main.fefe1fa5.js",
-    "index.html": "/index.html",
-    "main.fb0a886d.css.map": "/static/css/main.fb0a886d.css.map",
-    "main.fefe1fa5.js.map": "/static/js/main.fefe1fa5.js.map"
+    "main.css": "/task-app-react-localstorage/static/css/main.fb0a886d.css",
+    "main.js": "/task-app-react-localstorage/static/js/main.fefe1fa5.js",
+    "index.html": "/task-app-react-localstorage/index.html",
+    "main.fb0a886d.css.map": "/task-app-react-localstorage/static/css/main.fb0a886d.css.map",
+    "main.fefe1fa5.js.map": "/task-app-react-localstorage/static/js/main.fefe1fa5.js.map"
   },
   "entrypoints": [
     "static/css/main.fb0a886d.css",
